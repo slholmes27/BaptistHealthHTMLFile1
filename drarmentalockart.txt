@@ -1,0 +1,3 @@
+var qrarmentalockart = document.createElement("img");
+grarmentalockart = "Armenta_Lockhart.jpg";
+document.body.appendchild(armenta_lockart);

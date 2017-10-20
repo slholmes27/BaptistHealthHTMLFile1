@@ -1,0 +1,3 @@
+var qrlatoyabell = document.createElement("img");
+qrlatoyabell = "Latoya_bell.jpg";
+document.body.appendchild(qrLatoya_bell);
